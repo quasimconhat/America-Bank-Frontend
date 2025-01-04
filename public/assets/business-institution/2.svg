@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>bofa-mercury_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.135 0 45.135 0 45.135 45 0.135 45"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Products/full-component-stylefromPrivateBank" transform="translate(-697.000000, -203.000000)">
+            <g id="Products-/-icon-stack" transform="translate(569.000000, 201.000000)">
+                <g id="Icon/Choice" transform="translate(126.000000, 0.000000)">
+                    <g id="bofa_icon_choice2_blk" transform="translate(2.500000, 2.500000)">
+                        <g id="Group-3">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M13.5,0 L13.5,2.25 L8.613,2.25 L25.875,19.512 L25.875,45 L16.875,45 L16.875,23.238 L2.25,8.613 L2.25,13.5 L-7.10542736e-15,13.5 L-7.10542736e-15,0 L13.5,0 Z M5.4315,2.25 L2.25,2.25 L2.25,5.4315 L19.125,22.3065 L19.125,42.75 L23.625,42.75 L23.625,20.4435 L5.4315,2.25 Z M45,-1.59872116e-14 L45,13.5 L42.75,13.5 L42.75,8.613 L30.11175,21.25125 L28.521,19.6605 L42.75,5.4315 L42.75,2.25 L39.5685,2.25 L25.5465,16.272 L23.9535,14.68125 L36.387,2.25 L31.5,2.25 L31.5,-1.59872116e-14 L45,-1.59872116e-14 Z" id="Combined-Shape" fill="#012169" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
